@@ -22,4 +22,11 @@ def printer(speaker)
   batch_badge_creator(speakers).each do |name|
     puts name
   end
+  assign_rooms(speakers).each do |num|
+    puts num
+  end
+end
+
+
+  
   
