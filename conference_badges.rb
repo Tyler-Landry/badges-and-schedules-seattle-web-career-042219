@@ -12,5 +12,5 @@ end
 
 def assign_rooms(speakers)
   badge_and_room = []
-  speakers.eachwithindex 
+  speakers.each_with_index 
   
