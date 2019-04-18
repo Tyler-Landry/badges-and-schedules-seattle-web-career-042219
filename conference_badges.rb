@@ -26,7 +26,3 @@ def printer(speaker)
     puts num
   end
 end
-
-
-  
-  
